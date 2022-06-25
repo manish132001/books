@@ -1,0 +1,24 @@
+img{
+    height: 600px;
+    width: 400px;
+}
+.big{
+    height: 500px;
+    width: 600px;
+}
+.cards1{
+    width:400px;
+    display: inline !important;
+}
+.cards2{
+    display: inline !important;
+}
+.cards3{
+    display: inline !important;
+}
+#para1{
+    padding-top: 150px;
+}
+#box{
+    padding-right:20px ;
+}
